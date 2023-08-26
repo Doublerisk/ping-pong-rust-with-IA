@@ -10,7 +10,7 @@ const HEIGHT: usize = 30;
 const PADDLE_HEIGHT: usize = 4;
 const PADDLE_WIDTH: usize = 1;
 const BALL_START_SPEED: f32 = 5.0;
-const BALL_MAX_SPEED: f32 = 30.0;
+const BALL_MAX_SPEED: f32 = 25.0;
 const BALL_ACCELERATION: f32 = 5.0;
 const WINNING_SCORE: u32 = 5;
 
